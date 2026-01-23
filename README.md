@@ -1,19 +1,42 @@
+# ⚡ Farhan Ansari | Cyber Security & Python Dev
 
--->
-# Hi 👋, I'm Farhan Ansari 
-### B.Sc IT Student | Cybersecurity Enthusiast | Python Developer
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Farhan-Ansari-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Farhan-Ansari-1" />
+</p>
 
-- 🔭 I’m currently working on **R0uteR (CLI AI Assistant)**
-- 🌱 I’m currently learning **Kali Linux & Network Security**
-- 💻 My projects: [fxtoor - AI Tools Directory](https://farhan-ansari-1.github.io/fxtoor/)
-- ⚡ Fun fact: I balance my life between Coding and Hairstyling!
+### 👨‍💻 About Me
+Main ek **B.Sc IT student** hoon jo **Cybersecurity** aur **Development** ki duniya ko explore kar raha hai. Din mein hairstyling ke zariye creativity dikhata hoon aur raat mein code ke saath hacking aur logic seekhta hoon.
+
+- 🚀 **Working on:** [R0uteR](https://github.com/Farhan-Ansari-1/R0uteR) (CLI AI Hacking Assistant)
+- 🛠️ **Project:** [fxtoor](https://farhan-ansari-1.github.io/fxtoor/) (AI & Cyber Security Tools Directory)
+- 🛡️ **Learning:** Kali Linux, Nmap, aur Python for Automation
+- ✍️ **Fun Fact:** Urdu Medium se nikal kar ab English Documentation aur Scripts likh raha hoon!
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,kali,react,html,css,js,vite,github,vscode" />
+  </a>
+</p>
 
-### 📊 GitHub Stats
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan-Ansari-1&show_icons=true&theme=radical)
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farhan-Ansari-1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ansari-1&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-Ansari-1&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farhan Ansari" height="30" width="40" /></a>
+<a href="https://github.com/Farhan-Ansari-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Farhan-Ansari-1" height="30" width="40" /></a>
+</p>
