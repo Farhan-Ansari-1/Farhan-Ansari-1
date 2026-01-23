@@ -1,44 +1,77 @@
-# ⚡ Farhan Ansari | Cyber Security & Python Dev
+<div align="center">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Farhan-Ansari-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Farhan-Ansari-1" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Farhan%20Ansari&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%26%20Python%20Dev&descAlignY=55&descAlign=50" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Python+Developer;Ethical+Hacker;B.Sc+IT+Student" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Farhan-Ansari-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Farhan-Ansari-1" />
+  </p>
+
+</div>
+
+---
 
 ### 👨‍💻 About Me
-Main ek **B.Sc IT student** hoon jo **Cybersecurity** aur **Development** ki duniya ko explore kar raha hai. Din mein hairstyling ke zariye creativity dikhata hoon aur raat mein code ke saath hacking aur logic seekhta hoon.
 
-- 🚀 **Working on:** [R0uteR](https://github.com/Farhan-Ansari-1/R0uteR) (CLI AI Hacking Assistant)
-- 🛠️ **Project:** [fxtoor](https://farhan-ansari-1.github.io/fxtoor/) (AI & Cyber Security Tools Directory)
-- 🌐 **Portfolio:** [farX-Portfolio](https://farhan-ansari-1.github.io/farX-Portfolio/)
-- 🛡️ **Learning:** Kali Linux, Nmap, aur Python for Automation
-- ✍️ **Fun Fact:** Urdu Medium se nikal kar ab English Documentation aur Scripts likh raha hoon!
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+I am passionate about building a career in **Cybersecurity** and currently enrolled in a **B.Sc. IT program** to build a strong technical foundation.
+
+🛡️ **Security Research & Learning:**
+- Actively learning **Ethical Hacking** and **Social Engineering** (focusing on Phishing simulations).
+- Solving challenges on **TryHackMe** to understand Network Security & Web Vulnerabilities.
+- I’m eager to find mentorship, training, or entry-level opportunities to grow in cyber security.
+
+### 🚀 Projects
+- **[R0uteR (AI Assistant)](https://github.com/Farhan-Ansari-1/R0uteR)**: An advanced desktop AI with a futuristic HUD, Face Lock, and Screen Reading capabilities. Powered by Gemini 2.5 Flash.
+- **[fXtooR](https://farhan-ansari-1.github.io/fxtoor/)**: A comprehensive directory for AI & Cybersecurity tools using AI-Assisted Development (React + Vite).
+- **[Personal Portfolio](https://farhan-ansari-1.github.io/farX-Portfolio/)**: Developed using HTML & CSS with GitHub Copilot & ChatGPT assistance.
+
+---
+
+### 🎓 Education
+- **B.Sc in Information Technology** (2025 – Present) | *S.M.B.C College (University of Mumbai)*
+- **Higher Secondary (Science [PCMB])** (Completed 2024) | *Samadiya High School & Jr. College*
+
+---
+
+### 📜 Certifications
+- **Advent of Cyber 2025** (TryHackMe)
+- **5-Day AI Agents Intensive Course** (Google & Kaggle)
+- **Aspire Leaders Program** (Harvard University faculty)
+- **ChatGPT** (Guvi)
+<br/>
 
 ---
 
 ### 🛠 Tech Stack & Tools
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,kali,react,html,css,js,vite,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,linux,kali,react,tailwind,html,css,js,vite,github,vscode&theme=dark" />
   </a>
-</p>
+</div>
 
 ---
 
 ### 📊 My GitHub Journey
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farhan-Ansari-1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ansari-1&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-Ansari-1&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farhan-Ansari-1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ansari-1&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-Ansari-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-<a href="https://farhan-ansari-1.github.io/farX-Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0_farx_antix?igsh=ZWVraTFsOG5mNXJj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://github.com/Farhan-Ansari-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Farhan-Ansari-1" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://farhan-ansari-1.github.io/farX-Portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/farhan-ansari-/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/0_farx_antix?igsh=ZWVraTFsOG5mNXJj" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Farhan-Ansari-1" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
