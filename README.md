@@ -9,6 +9,7 @@ Main ek **B.Sc IT student** hoon jo **Cybersecurity** aur **Development** ki dun
 
 - 🚀 **Working on:** [R0uteR](https://github.com/Farhan-Ansari-1/R0uteR) (CLI AI Hacking Assistant)
 - 🛠️ **Project:** [fxtoor](https://farhan-ansari-1.github.io/fxtoor/) (AI & Cyber Security Tools Directory)
+- 🌐 **Portfolio:** [farX-Portfolio](https://farhan-ansari-1.github.io/farX-Portfolio/)
 - 🛡️ **Learning:** Kali Linux, Nmap, aur Python for Automation
 - ✍️ **Fun Fact:** Urdu Medium se nikal kar ab English Documentation aur Scripts likh raha hoon!
 
@@ -37,6 +38,7 @@ Main ek **B.Sc IT student** hoon jo **Cybersecurity** aur **Development** ki dun
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farhan Ansari" height="30" width="40" /></a>
+<a href="https://farhan-ansari-1.github.io/farX-Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://www.instagram.com/0_farx_antix?igsh=ZWVraTFsOG5mNXJj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://github.com/Farhan-Ansari-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Farhan-Ansari-1" height="30" width="40" /></a>
 </p>
