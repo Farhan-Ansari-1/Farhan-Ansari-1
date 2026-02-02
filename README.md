@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Farhan%20Ansari&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%26%20Python%20Dev&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Farhan%20Ansari&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Python+Developer;Ethical+Hacker;B.Sc+IT+Student" alt="Typing SVG" />
@@ -23,7 +23,9 @@ I am passionate about building a career in **Cybersecurity** and currently enrol
 🛡️ **Security Research & Learning:**
 - Actively learning **Ethical Hacking** and **Social Engineering** (focusing on Phishing simulations).
 - Solving challenges on **TryHackMe** to understand Network Security & Web Vulnerabilities.
-- I’m eager to find mentorship, training, or entry-level opportunities to grow in cyber security.
+- I’m eager to find mentorship, training, or entry-level opportunities to grow in **Cybersecurity**.
+
+<br clear="both"/>
 
 ### 🚀 Projects
 - **[R0uteR (AI Assistant)](https://github.com/Farhan-Ansari-1/R0uteR)**: An advanced desktop AI with a futuristic HUD, Face Lock, and Screen Reading capabilities. Powered by Gemini 2.5 Flash.
@@ -58,20 +60,23 @@ I am passionate about building a career in **Cybersecurity** and currently enrol
 
 ### 📊 My GitHub Journey
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farhan-Ansari-1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farhan-Ansari-1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Ansari-1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-Ansari-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Farhan-Ansari-1/Farhan-Ansari-1/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 
 ---
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://farhan-ansari-1.github.io/farX-Portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/farhan-ansari-/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/0_farx_antix?igsh=ZWVraTFsOG5mNXJj" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/Farhan-Ansari-1" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://farhan-ansari-1.github.io/farX-Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/googlechrome/white" height="30" width="30" alt="portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/farhan-ansari-/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/linkedin/white" height="30" width="30" alt="linkedin"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/0_farx_antix?igsh=ZWVraTFsOG5mNXJj" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/instagram/white" height="30" width="30" alt="instagram"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Farhan-Ansari-1" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/github/white" height="30" width="30" alt="github"/></a>
 </div>
